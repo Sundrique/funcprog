@@ -1,0 +1,12 @@
+.idea
+.DS_Store
+.settings
+lib
+lib_managed
+project
+recitations
+submission
+target
+.classpath
+.project
+
